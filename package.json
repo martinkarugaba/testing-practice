@@ -1,0 +1,24 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "A simple project aimed at learning how to test with Jest in JavaScript",
+  "main": "string.js",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinkarugaba/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinkarugaba/testing-practice/issues"
+  },
+  "homepage": "https://github.com/martinkarugaba/testing-practice#readme"
+}
